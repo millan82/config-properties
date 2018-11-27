@@ -1,7 +1,6 @@
 name: silvano
 server:
   port: 1234
-
 eureka:
   client:
     serviceUrl:
