@@ -1,7 +1,0 @@
-name: silvano
-server:
-  port: 3444
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:1111/eureka/
